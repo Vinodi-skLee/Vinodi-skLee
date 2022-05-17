@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there 👋
+## Hi! I'm Vinodi 🙆🏻
 </div>
 <hr> 
 <div align="center">
