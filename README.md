@@ -5,7 +5,7 @@
   ## Halo! I'm Vinodi
   </br>
 
-  ### 🐣 Tecch Stack 🐣
+  ### 🐣 Tech Stack 🐣
   <p>Techs that I've used at least once</p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
