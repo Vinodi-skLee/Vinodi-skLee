@@ -13,7 +13,7 @@
 <img src="https://img.icons8.com/color/38/null/spring-logo.png"/>&nbsp;&nbsp;
 <br></br>
 
-![Vinodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinodi-skLee&show_icons=true&theme=vue-dark)
+<!-- ![Vinodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinodi-skLee&show_icons=true&theme=vue-dark) -->
   
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVinodi-skLee&count_bg=%23949494&title_bg=%23949494&icon=bilibili.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  -->
