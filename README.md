@@ -1,7 +1,7 @@
 
 [![MAIL Badge](https://img.shields.io/badge/-MAIL-ledorange)](mailto:leevinodi@gmail.com)
 # I'm Vinodi Lee
-<p>#생각하는개발자 #코딩러버 #코드정리정돈습관화 #효율성중시 #Liveandletlive</p>
+<p>#생각하는개발자 #사용자중심 #효율성중시 #Liveandletlive</p>
 </br>
 
 ## Tech Stack
